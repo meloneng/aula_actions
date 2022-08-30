@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Manga
+          second change for pullrequest
         </p>
         <a
           className="App-link"
